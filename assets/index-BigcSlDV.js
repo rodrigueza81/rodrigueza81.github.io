@@ -48,6 +48,7 @@ Daily prediction ~50% accuracy isn't tradeable. But aggregating to monthly chang
 - When both signals agree → higher conviction trades
 
 HYBRID STRATEGY RESULTS
+<pre>
 ┌─────────┬──────────┬────────────┬────────────┬─────────────────┐
 │ Ticker  │ Invested │  Strategy  │  Buy&Hold  │   Key Benefit   │
 ├─────────┼──────────┼────────────┼────────────┼─────────────────┤
@@ -56,6 +57,7 @@ HYBRID STRATEGY RESULTS
 │ GS      │   7/12   │   +5.0%    │   +5.1%    │ time in market  │
 │ MS      │   6/12   │   +6.8%    │   +7.4%    │ = less risk     │
 └─────────┴──────────┴────────────┴────────────┴─────────────────┘
+</pre>
 
 WHY THIS MATTERS FOR REAL INVESTORS
 - Same expected returns with reduced downside exposure
