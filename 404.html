@@ -10,18 +10,9 @@
   <body>
     <div id="root"></div>
     <script>
-      // GitHub Pages SPA redirect: restore URL from 404.html redirect
-      (function() {
-        var redirect = sessionStorage.redirect;
-        delete sessionStorage.redirect;
-        if (redirect && redirect !== location.href) {
-          history.replaceState(null, null, redirect);
-        }
-      })();
+      // GitHub Pages SPA redirect: store path and redirect to root
+      // This handles client-side routing for single-page applications
+      sessionStorage.redirect = location.href;
     </script>
   </body>
 </html>
-
-<!-- cache-bust:2026-02-04 22:44:55 -->
-
-

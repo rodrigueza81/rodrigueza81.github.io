@@ -51,7 +51,7 @@ HYBRID STRATEGY RESULTS
 
 | Ticker | Invested | Strategy | Buy&Hold |
 |---|---:|---:|---:|
-| • SPY: 10/12 months invested → +8.8% (vs Buy&Hold +8.8%) |
+| SPY | 10/12 | +8.8% | +8.8% |
 | JPM | 9/12  | +6.1% | +5.6% |
 | GS  | 7/12  | +5.0% | +5.1% |
 | MS  | 6/12  | +6.8% | +7.4% |
