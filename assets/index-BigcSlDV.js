@@ -49,14 +49,14 @@ Daily prediction ~50% accuracy isn't tradeable. But aggregating to monthly chang
 
 HYBRID STRATEGY RESULTS
 
-| Ticker | Invested (months) | Strategy | Buy & Hold |
+| Ticker | Invested | Strategy | Buy&Hold |
 |---|---:|---:|---:|
 | SPY | 10/12 | +8.8% | +8.8% |
-| JPM | 9/12 | +6.1% | +5.6% |
-| GS  | 7/12 | +5.0% | +5.1% |
-| MS  | 6/12 | +6.8% | +7.4% |
+| JPM | 9/12  | +6.1% | +5.6% |
+| GS  | 7/12  | +5.0% | +5.1% |
+| MS  | 6/12  | +6.8% | +7.4% |
 
-Key benefit (overall): **Same return with 17–50% less time in market = lower risk.**
+Key benefit (overall): Same return with 17–50% less time in market = lower risk.
 
 WHY THIS MATTERS FOR REAL INVESTORS
 - Same expected returns with reduced downside exposure
